@@ -13,3 +13,8 @@
   color: white;
 }
 
+.drum-pad {
+    background-color: gray;
+    display: flex;
+    
+}
